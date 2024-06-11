@@ -1,1 +1,6 @@
-# Thalyta-Nogueira
+hello
+hi
+welcome
+done
+close
+open
